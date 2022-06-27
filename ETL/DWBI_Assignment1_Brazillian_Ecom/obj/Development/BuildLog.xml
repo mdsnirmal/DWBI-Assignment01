@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>DWBI_Assignment1_Brazillian_Ecom</Name>
+    <LastWriteTime>2022-06-04T08:00:14.4376101Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>Brazillian_Ecom_Load_Staging.dtsx</Name>
+      <LastWriteTime>2022-06-05T18:15:00.9265429Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Brazillian_Ecom_Load_DW.dtsx</Name>
+      <LastWriteTime>2022-06-04T05:44:28.8786594Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Brazillian_Ecom_DataProfiling.dtsx</Name>
+      <LastWriteTime>2022-05-17T16:33:47.8724331Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Brazillian_Ecom_AccumulatedFact.dtsx</Name>
+      <LastWriteTime>2022-06-04T08:02:30.2328396Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
