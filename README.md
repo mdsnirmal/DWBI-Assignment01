@@ -8,7 +8,7 @@ Data Warehouse model is Snowflake
 ![image](https://github.com/user-attachments/assets/06852902-9f41-4da6-b8d2-af9274bd0e2b)
 
 ETL Development
-![image](https://github.com/user-attachments/assets/3020e237-fdae-4b6b-afc7-f2ee8198ad6b)
+![image](https://github.com/user-attachments/assets/7f5989a4-5043-4529-8df1-5f857cd6fe20)
 
 ETL Development - Accumulating Fact Tables
 ![image](https://github.com/user-attachments/assets/28e38e5b-1f7c-42de-8a84-4b526b67bfff)
