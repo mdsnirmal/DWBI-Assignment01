@@ -2,10 +2,10 @@ ER Diagram
 ![image](https://github.com/user-attachments/assets/f60f6abe-1434-4f4c-91a9-3bfc85ece918)
 
 Solution Architecture
-![image](https://github.com/user-attachments/assets/cae04c56-0cfd-4c47-9250-a0d4f87cbec4)
+![image](https://github.com/user-attachments/assets/cf50fd66-fa21-4704-b811-8061c8b1d2bb)
 
 Data Warehouse model is Snowflake
-![image](https://github.com/user-attachments/assets/3da60281-71c7-44bd-8ce5-0ffed09b9c45)
+![image](https://github.com/user-attachments/assets/06852902-9f41-4da6-b8d2-af9274bd0e2b)
 
 ETL Development
 ![image](https://github.com/user-attachments/assets/3020e237-fdae-4b6b-afc7-f2ee8198ad6b)
